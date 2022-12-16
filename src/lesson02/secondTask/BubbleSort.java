@@ -1,6 +1,6 @@
 package lesson02.secondTask;
 
-ДЗ2.
+//ДЗ2.
 /*      Реализуйте алгоритм
         сортировки пузырьком
         числового массива, результат
@@ -15,7 +15,7 @@ import java.io.IOException;
 import java.sql.Timestamp;
 import java.util.Arrays;
 
-public class Main {
+public class BubbleSort {
     private static File log;
     private static FileWriter fileWriter;
 
